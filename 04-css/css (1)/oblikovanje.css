@@ -47,6 +47,11 @@ code {
     background-color: rgb(53, 0, 102l, 0.1);
 }
 
+div {
+  border: 2px solid red;
+}
+
+
 .slika{
     font-size: 0.9em;
     width: 40%;
