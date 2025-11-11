@@ -1,30 +1,32 @@
 \documentclass[a4paper,12pt]{article}
-\usepackage{amsthm}
-\usepackage[slovene]{babel}
+
+% --- Paketi ---
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
+\usepackage[slovene]{babel}
 \usepackage{lmodern}
-\newtheorem{izrek}{Izrek}
-\usepackage{url}
+\usepackage{amsmath, amssymb}
+\usepackage{amsthm}
 \usepackage{graphicx}
-\begin{definition}
-\newtheorem{definicija}{izrek}[plain]
-\end{definition}
-% Nastavimo koliko prostora izpustimo pod napisom nad sliko ali tabelo.
+\usepackage{url}
+
+% --- Okolja za izreke in definicije ---
+\theoremstyle{definition}
+\newtheorem{definicija}{Definicija}
+
+\theoremstyle{plain}
+\newtheorem{izrek}{Izrek}
+
+% Nastavimo razmake
 \setlength{\belowcaptionskip}{2mm}
-% Nastavimo odmik prve vrstice v odstavku na 0mm.
 \setlength{\parindent}{0mm}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Prvi sklop nalog
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
+% --- Glava dokumenta ---
 \title{Magični kvadrati}
-% 1. naloga
-% Glavo dokumenta popravite tako, da se ne bo izpisal datum.
-% To naredite tako, da za ukazom `\title` dodate ukaz `\date{}`.
+\date{} % <-- brez datuma
 
 \begin{document}
+
 
 \maketitle
 
