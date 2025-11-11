@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1762855031.41593 "c:/Users/dinos/OneDrive/Desktop/racunalniski-praktikum/07-magicni-kvadrati/magic.tex" "magic.pdf" "magic" 1762855032.59804 0
-  "C:/Users/dinos/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1762253244 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+["pdflatex"] 1762855353.95735 "c:/Users/dinos/OneDrive/Desktop/racunalniski-praktikum/07-magicni-kvadrati/magic.tex" "magic.pdf" "magic" 1762855355.12372 2
+  "C:/Users/dinos/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1762855352 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/dinos/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1762250034 24225046 48ae7ea68db7f3a4f82656e176025e8a ""
   "C:/Users/dinos/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
   "C:/Users/dinos/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc" 1256929440 3486 c7eadf5dcc57b3b2d11736679f6636ba ""
@@ -35,9 +35,6 @@
   "C:/Users/dinos/AppData/Local/Programs/MiKTeX/fonts/tfm/public/lm/rm-lmr7.tfm" 1256929440 11852 5a9022f105fd1ee2797df861e79ae9a0 ""
   "C:/Users/dinos/AppData/Local/Programs/MiKTeX/fonts/tfm/public/lm/rm-lmr8.tfm" 1256929440 11864 309fd7f43e4a0ba39f6f7644d76e8edf ""
   "C:/Users/dinos/AppData/Local/Programs/MiKTeX/fonts/tfm/public/lm/ts1-lmr12.tfm" 1256929440 1596 1d4548788e389ded56d0b01b28377882 ""
-  "C:/Users/dinos/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
-  "C:/Users/dinos/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
-  "C:/Users/dinos/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/latxfont/line10.pfb" 1247596653 11493 4f5ed183a47d3197cf8cd322325db6de ""
   "C:/Users/dinos/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb" 1256929440 116908 9a7a12d1e4df280ea0ab4aad83cdef88 ""
   "C:/Users/dinos/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.pfb" 1256929440 23055 2e5b42921de910eaa97b85df04ca4891 ""
   "C:/Users/dinos/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb" 1256929440 30696 3da7e46ecf5615eedebd9f27dab4d9d7 ""
@@ -88,12 +85,13 @@
   "C:/Users/dinos/AppData/Local/Programs/MiKTeX/tex/latex/lm/t1lmr.fd" 1430474546 1867 996fe743d88a01aca041ed22cc10e1bb ""
   "C:/Users/dinos/AppData/Local/Programs/MiKTeX/tex/latex/lm/t1lmtt.fd" 1430474546 2682 555da1faa2e266801e4b221d01a42cb5 ""
   "C:/Users/dinos/AppData/Local/Programs/MiKTeX/tex/latex/lm/ts1lmr.fd" 1430474546 1914 884882d7ebb0fd65cea93fca77ff6f5a ""
+  "C:/Users/dinos/AppData/Local/Programs/MiKTeX/tex/latex/multirow/multirow.sty" 1731767677 6696 886c9f3087d0b973ed2c19aa79cb3023 ""
+  "C:/Users/dinos/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty" 1700599895 12667 e4b5eb11e4b7239e6c8a52bbe074a6c6 ""
   "C:/Users/dinos/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/dinos/OneDrive/Desktop/racunalniski-praktikum/07-magicni-kvadrati/magic.tex" 1762855029 4573 bc6614d716751fcd6d5648bc480f5a48 ""
-  "magic.aux" 1762855032 813 f30847766ff7a0c8a073d74b9506d049 "pdflatex"
-  "magic.tex" 1762855029 4573 bc6614d716751fcd6d5648bc480f5a48 ""
-  "magic.toc" 1762855032 199 9ac1f22d703ebcd59ac53b51e8c9a3a7 "pdflatex"
-  "slika.pdf" 1716390304 7184 4c49b0abdbf8a2d3c38cc176cac49f8d ""
+  "c:/Users/dinos/OneDrive/Desktop/racunalniski-praktikum/07-magicni-kvadrati/magic.tex" 1762855345 10520 31942e88883c272c072817c3756aa49e ""
+  "magic.aux" 1762855354 2265 64bbb78006e99c4e8eecdf0bb7842b92 "pdflatex"
+  "magic.tex" 1762855345 10520 31942e88883c272c072817c3756aa49e ""
+  "magic.toc" 1762855354 469 badb6b664a6a7543e2186397c5a87ca2 "pdflatex"
   (generated)
   "magic.aux"
   "magic.log"
