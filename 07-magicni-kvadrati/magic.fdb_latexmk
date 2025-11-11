@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1762854788.1739 "c:/Users/dinos/OneDrive/Desktop/racunalniski-praktikum/07-magicni-kvadrati/magic.tex" "magic.pdf" "magic" 1762854789.42339 0
+["pdflatex"] 1762855031.41593 "c:/Users/dinos/OneDrive/Desktop/racunalniski-praktikum/07-magicni-kvadrati/magic.tex" "magic.pdf" "magic" 1762855032.59804 0
   "C:/Users/dinos/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1762253244 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/dinos/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1762250034 24225046 48ae7ea68db7f3a4f82656e176025e8a ""
   "C:/Users/dinos/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
@@ -89,12 +89,10 @@
   "C:/Users/dinos/AppData/Local/Programs/MiKTeX/tex/latex/lm/t1lmtt.fd" 1430474546 2682 555da1faa2e266801e4b221d01a42cb5 ""
   "C:/Users/dinos/AppData/Local/Programs/MiKTeX/tex/latex/lm/ts1lmr.fd" 1430474546 1914 884882d7ebb0fd65cea93fca77ff6f5a ""
   "C:/Users/dinos/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/dinos/OneDrive/Desktop/racunalniski-praktikum/07-magicni-kvadrati/magic.tex" 1762854785 11958 c82e6dda0464a53bdb85cd696c4814d1 ""
-  "durer.png" 1725031530 49307 c9692a8c361fe34567154cebb97ad5d5 ""
-  "magic.aux" 1762854789 1020 5d0c12b7637732a3e0a5c1afb9b1af69 "pdflatex"
-  "magic.tex" 1762854785 11958 c82e6dda0464a53bdb85cd696c4814d1 ""
-  "magic.toc" 1762854789 471 63cfd8170eced506afa4412df5666f77 "pdflatex"
-  "sagrada.png" 1725031530 118170 cc732cd2e989087e9820bfa6fd003959 ""
+  "c:/Users/dinos/OneDrive/Desktop/racunalniski-praktikum/07-magicni-kvadrati/magic.tex" 1762855029 4573 bc6614d716751fcd6d5648bc480f5a48 ""
+  "magic.aux" 1762855032 813 f30847766ff7a0c8a073d74b9506d049 "pdflatex"
+  "magic.tex" 1762855029 4573 bc6614d716751fcd6d5648bc480f5a48 ""
+  "magic.toc" 1762855032 199 9ac1f22d703ebcd59ac53b51e8c9a3a7 "pdflatex"
   "slika.pdf" 1716390304 7184 4c49b0abdbf8a2d3c38cc176cac49f8d ""
   (generated)
   "magic.aux"
