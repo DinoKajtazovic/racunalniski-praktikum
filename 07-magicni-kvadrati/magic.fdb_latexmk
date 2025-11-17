@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1762857946.17682 "c:/Users/dinos/OneDrive/Desktop/racunalniski-praktikum/07-magicni-kvadrati/magic.tex" "magic.pdf" "magic" 1762857947.324 0
+["pdflatex"] 1763379703.20552 "c:/Users/dinos/OneDrive/Desktop/racunalniski-praktikum/07-magicni-kvadrati/magic.tex" "magic.pdf" "magic" 1763379704.40249 0
   "C:/Users/dinos/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1762855352 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/dinos/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1762250034 24225046 48ae7ea68db7f3a4f82656e176025e8a ""
   "C:/Users/dinos/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
@@ -76,11 +76,11 @@
   "C:/Users/dinos/AppData/Local/Programs/MiKTeX/tex/latex/lm/t1lmtt.fd" 1430474546 2682 555da1faa2e266801e4b221d01a42cb5 ""
   "C:/Users/dinos/AppData/Local/Programs/MiKTeX/tex/latex/lm/ts1lmr.fd" 1430474546 1914 884882d7ebb0fd65cea93fca77ff6f5a ""
   "C:/Users/dinos/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/dinos/OneDrive/Desktop/racunalniski-praktikum/07-magicni-kvadrati/magic.tex" 1762857943 14127 550eac211f44d7018528ef040095ef2e ""
+  "c:/Users/dinos/OneDrive/Desktop/racunalniski-praktikum/07-magicni-kvadrati/magic.tex" 1763379702 14442 f0bc091356d1563004c5065833d853fd ""
   "durer.png" 1725031530 49307 c9692a8c361fe34567154cebb97ad5d5 ""
-  "magic.aux" 1762857947 2350 9001a6ae13b9b6f65ea15f70bf43086a "pdflatex"
-  "magic.tex" 1762857943 14127 550eac211f44d7018528ef040095ef2e ""
-  "magic.toc" 1762857947 471 5428526f013f2082aa815381a986f232 "pdflatex"
+  "magic.aux" 1763379704 2709 419072077ee9dd845c7ec96e9bced322 "pdflatex"
+  "magic.tex" 1763379702 14442 f0bc091356d1563004c5065833d853fd ""
+  "magic.toc" 1763379704 471 eac3770e88c7182830bf464136ccdb1f "pdflatex"
   "sagrada.png" 1725031530 118170 cc732cd2e989087e9820bfa6fd003959 ""
   "slika.pdf" 1716390304 7184 4c49b0abdbf8a2d3c38cc176cac49f8d ""
   (generated)

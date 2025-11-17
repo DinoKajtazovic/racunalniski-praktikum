@@ -119,10 +119,10 @@ INPUT .\magic.toc
 INPUT .\magic.toc
 INPUT magic.toc
 INPUT C:\Users\dinos\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
+OUTPUT magic.toc
 INPUT C:\Users\dinos\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\dinos\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-ec.enc
 INPUT C:\Users\dinos\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-ts1.enc
-OUTPUT magic.toc
 INPUT C:\Users\dinos\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmri12.tfm
 INPUT C:\Users\dinos\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
 INPUT C:\Users\dinos\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathit.enc
