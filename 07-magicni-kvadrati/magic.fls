@@ -143,6 +143,9 @@ INPUT .\sagrada.png
 INPUT .\sagrada.png
 INPUT .\sagrada.png
 INPUT C:\Users\dinos\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathex.enc
+INPUT .\magic.bbl
+INPUT .\magic.bbl
+INPUT magic.bbl
 INPUT magic.aux
 INPUT C:\Users\dinos\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\dinos\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb

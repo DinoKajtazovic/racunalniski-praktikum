@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.11.4)  17 NOV 2025 12:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.11.4)  17 NOV 2025 15:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -229,32 +229,36 @@ Package pdftex.def Info: durer.png  used on input line 199.
 <sagrada.png, id=39, 281.05pt x 210.7875pt>
 File: sagrada.png Graphic file (type png)
 <use sagrada.png>
-Package pdftex.def Info: sagrada.png  used on input line 236.
+Package pdftex.def Info: sagrada.png  used on input line 239.
 (pdftex.def)             Requested size: 281.0493pt x 210.78699pt.
- [4 <./sagrada.png>]
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[5{C:/Users/dinos/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}]
+[4 <./sagrada.png>] [5{C:/Users/dinos/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[6] [7] (magic.aux)
+[6] (magic.bbl
+
+LaTeX Warning: Empty `thebibliography' environment on input line 3.
+
+) [7] (magic.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3117 strings out of 474486
- 53811 string characters out of 5743755
- 1942542 words of memory out of 5000000
- 25355 multiletter control sequences out of 15000+600000
+ 3126 strings out of 474486
+ 54050 string characters out of 5743755
+ 1944542 words of memory out of 5000000
+ 25361 multiletter control sequences out of 15000+600000
  606947 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,9n,65p,292b,304s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/dinos/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/dinos/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/dinos/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/latxfont/line10.pfb><C:/Users/dinos/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/dinos/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Users/dinos/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/dinos/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/dinos/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/dinos/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/dinos/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/dinos/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/dinos/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/dinos/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/dinos/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on magic.pdf (7 pages, 394596 bytes).
+Output written on magic.pdf (7 pages, 394862 bytes).
 PDF statistics:
  116 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
